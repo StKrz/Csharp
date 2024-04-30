@@ -1,0 +1,14 @@
+[2024-05-01 01:04:14.690 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager [Information] User profile is available. Using '"C:\Users\stavr\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[2024-05-01 01:04:14.933 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware [Warning] The WebRootPath was not found: "C:\Users\stavr\CSharpProjects\repos\HelloOOApp\WebStarterDBApp1\bin\Debug\net8.0\wwwroot". Static files may be unavailable.
+[2024-05-01 01:04:15.045 +03:00 Microsoft.Hosting.Lifetime [Information] Now listening on: "http://localhost:5000"
+[2024-05-01 01:04:15.049 +03:00 Microsoft.Hosting.Lifetime [Information] Application started. Press Ctrl+C to shut down.
+[2024-05-01 01:04:15.051 +03:00 Microsoft.Hosting.Lifetime [Information] Hosting environment: "Production"
+[2024-05-01 01:04:15.054 +03:00 Microsoft.Hosting.Lifetime [Information] Content root path: "C:\Users\stavr\CSharpProjects\repos\HelloOOApp\WebStarterDBApp1\bin\Debug\net8.0"
+[2024-05-01 01:04:36.532 +03:00 Microsoft.Hosting.Lifetime [Information] Application is shutting down...
+[2024-05-01 01:04:55.944 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager [Information] User profile is available. Using '"C:\Users\stavr\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[2024-05-01 01:04:56.253 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware [Warning] The WebRootPath was not found: "C:\Users\stavr\CSharpProjects\repos\HelloOOApp\WebStarterDBApp1\bin\Debug\net8.0\wwwroot". Static files may be unavailable.
+[2024-05-01 01:04:56.396 +03:00 Microsoft.Hosting.Lifetime [Information] Now listening on: "http://localhost:5000"
+[2024-05-01 01:04:56.402 +03:00 Microsoft.Hosting.Lifetime [Information] Application started. Press Ctrl+C to shut down.
+[2024-05-01 01:04:56.404 +03:00 Microsoft.Hosting.Lifetime [Information] Hosting environment: "Production"
+[2024-05-01 01:04:56.406 +03:00 Microsoft.Hosting.Lifetime [Information] Content root path: "C:\Users\stavr\CSharpProjects\repos\HelloOOApp\WebStarterDBApp1\bin\Debug\net8.0"
+[2024-05-01 01:05:04.166 +03:00 Microsoft.Hosting.Lifetime [Information] Application is shutting down...
